@@ -6,6 +6,8 @@ npm install inquirer
 npm install typescript
 ```
 
+## Compile and run
+
 ### TestInquirer.ts
 ```$xslt
 tsc
